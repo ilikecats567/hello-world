@@ -9,3 +9,6 @@ Use "branching" to make changes before committing to "master".
 A new branch is called "feature".
 After final edits, it's committed to the main branch.
 
+A saved change is called a "commit".
+An associated message called a "commit change" explains the change.
+"Commit changes" captures the history of your changes.
