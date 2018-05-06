@@ -11,4 +11,4 @@ After final edits, it's committed to the main branch.
 
 A saved change is called a "commit".
 An associated message called a "commit change" explains the change.
-It captures the history of your changes.
+"Commit changes" captures the history of your changes.
